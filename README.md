@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shaunak Khatavkar
-- 🌱 I’m a computer science student
+- 🌱 I’m a Computer Science student
 - 👀 I’m interested in Software development
 - 📫 How to reach me - shaunak14k@gmail.com
 
