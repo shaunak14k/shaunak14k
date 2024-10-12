@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Shaunak Khatavkar
-- 👀 I’m interested in Software development
 - 📫 How to reach me - shaunak14k@gmail.com
 
 <!---
