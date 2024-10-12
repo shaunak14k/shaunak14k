@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shaunak Khatavkar
+- 👋 Hi, I’m Shaunak
 - 📫 How to reach me - shaunak14k@gmail.com
 
 <!---
